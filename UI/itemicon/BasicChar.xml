@@ -1,0 +1,247 @@
+<?xml version="1.0" ?>
+<Root_Node UI_File_Name="BasicChar.xml">
+	<Style Style="65536" />
+	<BaseWndProperty WindowID="1" WindowLeft="251" WindowTop="342" WindowHeight="0" WindowWidth="0">
+		<BackGroundMap BGmap="Slot32.dds" />
+		<Container_Node Child_Cnt="44">
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="2" WindowHeight="255" WindowWidth="88" Visible="1">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVTop="254" NorUVWidth="255" NorUVHeight="88" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="5100" WindowLeft="137" WindowTop="30" WindowHeight="112" WindowWidth="5">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="408" NorUVTop="155" NorUVWidth="112" NorUVHeight="5" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="6" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="5110" WindowLeft="137" WindowTop="42" WindowHeight="112" WindowWidth="5">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="408" NorUVTop="155" NorUVWidth="112" NorUVHeight="5" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="12" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="5000" WindowLeft="117" WindowTop="8" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="5010" WindowLeft="193" WindowTop="14" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="65535" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="5060" WindowLeft="193" WindowTop="32" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="5070" WindowLeft="193" WindowTop="44" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="5120" WindowLeft="137" WindowTop="53" WindowHeight="112" WindowWidth="5">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="408" NorUVTop="155" NorUVWidth="112" NorUVHeight="5" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="18" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="4010" WindowLeft="107" WindowTop="16" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="4011" WindowLeft="105" WindowTop="33" WindowHeight="20" WindowWidth="20" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="1000" WindowLeft="106" WindowTop="71" WindowHeight="19" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="996" NorUVTop="179" NorUVWidth="19" NorUVHeight="16" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="9000" WindowLeft="256" WindowTop="1" WindowHeight="102" WindowWidth="34" Visible="1">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="687" NorUVTop="136" NorUVWidth="102" NorUVHeight="34" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="9050" WindowLeft="307" WindowTop="13" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="67108864" />
+			<BaseWndProperty WindowID="9010" WindowLeft="261" WindowTop="25" WindowHeight="92" WindowWidth="5">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="693" NorUVTop="175" NorUVWidth="92" NorUVHeight="5" />
+				</BackGroundMap>
+				<ProgressNode>
+					<OffSetUV UVCnt="1">
+						<SOffset-0 x="0" y="6" />
+					</OffSetUV>
+				</ProgressNode>
+			</BaseWndProperty>
+			<Style CtrlType="33554432" />
+			<BaseWndProperty WindowID="9060" WindowLeft="307" WindowTop="28" WindowHeight="0" WindowWidth="0">
+				<BaseCtrlProperty FontColor="16777215" FontStyle="1" />
+				<TextNode TextAlign="1" />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="4020" WindowLeft="107" WindowTop="54" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="main.dds">
+					<NorUV NorUVLeft="772" NorUVTop="118" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="4030" WindowLeft="107" WindowTop="54" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="uiobj01.dds">
+					<NorUV NorUVLeft="2004" NorUVTop="326" NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8001" WindowLeft="126" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8002" WindowLeft="142" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8003" WindowLeft="158" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8004" WindowLeft="174" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8005" WindowLeft="190" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8006" WindowLeft="206" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8007" WindowLeft="222" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8008" WindowLeft="238" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8009" WindowLeft="254" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8010" WindowLeft="270" WindowTop="65" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8101" WindowLeft="126" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8102" WindowLeft="142" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8103" WindowLeft="158" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8104" WindowLeft="174" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8105" WindowLeft="190" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8106" WindowLeft="206" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8107" WindowLeft="222" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8108" WindowLeft="238" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8109" WindowLeft="254" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8110" WindowLeft="270" WindowTop="81" WindowHeight="16" WindowWidth="16" Visible="1">
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8200" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8201" WindowTop="16" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8202" WindowTop="32" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8203" WindowTop="48" WindowHeight="16" WindowWidth="16" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="268435456" />
+			<BaseWndProperty WindowID="10000" WindowLeft="286" WindowTop="38" WindowHeight="39" WindowWidth="39" Visible="1">
+				<BackGroundMap BGmap="Slot32.dds" />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8300" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+			<Style CtrlType="536870912" />
+			<BaseWndProperty WindowID="8301" WindowTop="16" WindowHeight="16" WindowWidth="16">
+				<BackGroundMap BGmap="Slot32.dds">
+					<NorUV NorUVWidth="16" NorUVHeight="16" />
+				</BackGroundMap>
+				<SlotNode />
+			</BaseWndProperty>
+		</Container_Node>
+	</BaseWndProperty>
+</Root_Node>
